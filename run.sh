@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#2
+#1
 
 iptables -t mangle -vnL
 
